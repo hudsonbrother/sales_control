@@ -36,7 +36,7 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 
-**TL;DR command list**
+##**Command list**
 
     git clone https://github.com/hudsonbrother/sales_control.git
 	cd sales_control
