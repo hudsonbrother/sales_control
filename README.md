@@ -1,5 +1,19 @@
 # Getting started
 
+##Application:
+
+Develop a sales registration system for seller and calculate the
+
+commission on these sales (the commission will be 8.5% of the sale value)
+
+Functionalities:
+
+● Seller CRUD (id, name, email);
+
+● Insert new sale (seller_id, sale amount);
+
+● List all sales for a seller (id, name, email, commission, amount, date of sale).
+
 ## Installation
 
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.4/installation#installation)
